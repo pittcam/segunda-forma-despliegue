@@ -37,6 +37,7 @@ export default function Home() {
           height={37}
           priority
         />
+        <h1>Bienvenido a mi sitio de ejemplo</h1>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
